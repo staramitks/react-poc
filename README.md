@@ -1,6 +1,23 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+JSX Differences
+Class = className
+for = htmlFor
+camelCase property naming convention
+onclick = onClick
+tabindex= tabIndex
+
+## LIbs
+npm install react-toastify --save  
+npm install --save bootstrap     
+
+## Short cuts of ES6
+- rconst
+- rcc
+- rfc
+- rpce
+
 
 ## Available Scripts
 
